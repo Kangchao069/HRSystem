@@ -1,0 +1,51 @@
+﻿body {
+}
+
+#OutArea {
+    width: 600px;
+    height: 500px;
+    padding-left:10%;
+}
+
+#InArea {
+    margin: 10px 10px 10px 10px;
+}
+
+.fontUpdate {
+    color: #67a7c4;
+    font-size: 20px;
+    border-bottom: 1px solid #cccdcf;
+}
+
+#content {
+    margin: 0 auto;
+    margin-left: 20%;
+    padding-top: 5px;
+}
+
+    #content input {
+        width: 200px;
+        height: 34px;
+        border: 1px solid #cccdcf;
+        border-radius: 5px;
+    }
+
+    #content div {
+        margin-top: 10px;
+    }
+
+#btnBut {
+   margin-left:30%;
+}
+.buttonsl {
+    background: #33bdef;
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+    border-radius: 6px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 16px;
+    padding: 4px 40px 4px 40px;
+    border: solid #057fd0 1px;
+    margin-top: 10px;
+}

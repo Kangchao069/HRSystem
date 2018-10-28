@@ -1,0 +1,38 @@
+﻿body {
+}
+#content {
+  width:100%;
+  border:1px solid #cccdcf;
+  
+  line-height: 1.334;
+    font-size:17px;
+    color:#000;
+    float:left;
+}
+.pagecontrol {
+  float:left;
+  margin-top:20px;
+  width:600px;
+  text-align:center;
+}
+#leftsource {
+    margin-top:5px;
+    width:20%;
+    float:left;
+    position:relative;
+    margin-left:50px;
+}
+#leftsource a{
+    text-decoration:none;
+    list-style:none;
+}
+#leftsource a:hover{
+    text-decoration:underline;
+
+}
+
+#rightsource {
+    margin-top:5px;
+     width:55%;
+    float:left;
+}

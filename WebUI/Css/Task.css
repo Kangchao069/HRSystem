@@ -1,0 +1,82 @@
+﻿body {
+}
+.table{
+    background-color:#f5f2f2;
+    box-shadow: 3px 3px 6px #ebe9e9;
+    width:1320px;
+}
+.tables{
+    background-color:#f5f2f2;
+    box-shadow: 3px 3px 6px #ebe9e9;
+    width:660px;
+    height:500px;
+}
+.td{
+    width:150px;
+    height:40px;
+    font-size: 20px; 
+    font-family: 黑体; 
+    color: #333333;
+    text-align:center;
+}
+.td1{
+    width:150px;
+    height:60px;
+    font-size: 20px; 
+    font-family: 黑体; 
+    color: #333333;
+    text-align:center;
+}
+.tdss{
+    width:150px;
+    height:40px;
+    font-size: 20px; 
+    font-family: 黑体; 
+    color: #333333;
+    text-align:left;
+}
+.tdsss{
+    width:240px;
+    height:40px;
+    font-size: 20px; 
+    font-family: 黑体; 
+    color: #333333;
+    text-align:left;
+}
+.t{
+    width:220px;
+    height:40px;
+    font-size: 20px; 
+    font-family: 黑体; 
+    color: #333333;
+    text-align:left;
+}
+.times{
+    width:220px;
+    height:40px;
+    color:#333333;
+}
+.tds{
+    width:150px;
+    height:40px;
+    
+    color: #333333;
+}
+.time{
+    width:240px;
+    height:40px;
+    color:#333333;
+}
+a{
+    color:black;
+    text-decoration:none;
+}
+a:hover{
+    color: red;
+    cursor:pointer;
+}
+.label{
+    width:180px;
+    height:40px;
+   
+}

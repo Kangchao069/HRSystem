@@ -1,0 +1,120 @@
+﻿body {
+    width: 100%;
+    border: 0;
+    padding:0;
+    margin:0;
+}
+
+#H_header {
+    width: 100%;
+    height: 70px;
+    background-color:#3f3f3f;
+    position: relative;
+}
+#leftBanner {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    color: #ffffff;
+    position: absolute;  
+    top: 50%;
+    margin: -50px 0 0 0;
+    line-height: 100px;
+    margin-left:20px;
+    width:50%;
+    height:70px;
+}
+#rightBanner {
+    color:#7c7d81;
+    float:right;
+    text-align:right;
+    height:70px;
+    width:50%;
+}
+#UserLoginInfo {
+    height:70%;
+
+}
+
+    .btnOut {
+    color:#7c7d81;
+    float:right;
+    border:0px;
+    background-color:transparent;
+    font-size:15px;
+    
+    }
+#timeShow {
+    height:30%;
+}
+
+
+#M_Menu {
+    width: 15%;
+    height: auto;
+    min-height: 800px;
+    float: left;
+    /*background-color:lightskyblue;*/
+    background-color:#f5f6fa;
+    /*color:black;*/
+    color:black;/*左边菜单栏字体颜色*/
+}
+
+#C_Content {
+    width: 85%;
+    height: 800px;
+    float: right;
+}
+
+#B_tip {
+    width: 100%;
+    height: 200px;
+    float: left;
+}
+
+iframe {
+    width: 100%;
+    height: 100%;
+    border: 0;
+    background-color: #ffffff;
+}
+
+#oneUl {
+    list-style: none;
+    cursor: pointer;
+}
+
+    #oneUl li {
+        margin-top: 5px;
+        /*font-family: Arial,Helvetica,sans-serif;*/
+        font-family:"Helvetica Neue", "Hiragino Sans GB", "Microsoft YaHei", "黑体", Arial, sans-serif;
+        font-size: 16px;
+    }
+
+        #oneUl li ul {
+            margin: 0;
+            padding: 0;
+            list-style: none;
+            cursor: pointer;
+        }
+
+            #oneUl li ul li {
+                height: 25px;
+                font-size: 15px;
+                padding-left: 25px;
+                border-bottom: 1px dashed #a3a3a3;
+            }
+
+            #oneUl li ul a {
+                text-decoration: none;
+                color: #1f5175;
+                font-family: "幼圆";
+            }
+
+            #oneUl li ul li:hover a {
+                background-color: #db7a1d;
+                color: white;
+            }
+
+            #oneUl li ul li:hover {
+                background-color: #db7a1d;
+            }

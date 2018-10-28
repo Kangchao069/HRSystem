@@ -1,0 +1,55 @@
+﻿body {
+    
+}
+
+
+#oneRepeater_tr {
+    
+   height:80px;
+   color:#0d6478;
+   font-family:黑体;
+   font-size:20px;
+   
+}
+#twoRepeater_li {
+    
+    display:inline;
+    list-style-type:none;
+    color:#3fafc8;
+    font-size:17px;
+    font-family:微软雅黑;
+   
+}
+
+#twoRepeater_Div {
+    height:35px;
+    margin-top:7px;
+    border-bottom:2px solid #dce0de;
+}
+
+#table {
+    margin-left:30px;
+    margin-top:20px;
+    border:1px solid #cccdcf;
+    width:700px;
+}
+
+
+.PowerButton {
+    border:0px;
+    width:80px;
+    height:30px;
+    color:white;
+    background-color:#0d6478;
+    font-size:20px;
+    margin-left:15px;
+    margin-bottom:15px;
+}
+
+    .PowerButton:active {
+       background-color:#4c91a1;
+       color:#f1f7fb;
+    }
+    .PowerButton:hover {
+       cursor:pointer;
+    }

@@ -1,0 +1,26 @@
+﻿body {
+}
+#basicInfo {
+    width:400px;
+    
+}
+#leftPName {
+    float:left;
+    width:100px;
+    background-color:#f0f0f0;
+    padding-left:100px;
+    margin-top:20px;
+}
+#rightWages {
+      width:200px;
+      float:left;
+      background-color:#f0f0f0;
+       margin-top:20px;
+}
+.aEdit {
+      float:right;
+      background-color:#77cad6;
+      text-decoration-line: underline;
+      cursor:pointer;
+}
+  

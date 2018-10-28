@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+    <siteMapNode  title="找你网络科技后台管理系统"  description="找你网络科技后台管理系统">
+      <siteMapNode url="~/Users/U_SelUserInfo.aspx" title="个人档案信息"  description="" />
+      <siteMapNode url="~/Users/U_UserLeaveAdd.aspx" title="编辑请假信息"  description="" />
+      <siteMapNode url="~/HR/H_UpdUserInfo.aspx" title="用户信息管理"  description="" />
+      <siteMapNode url="~/HR/H_SelLeaveInfo.aspx" title="请假信息管理"  description="" />
+      <siteMapNode url="~/HR/H_SelAllResigntions.aspx" title="辞职信息管理"  description="" />
+      <siteMapNode url="~/HR/H_AddResignation.aspx" title="编辑辞职信息"  description="" />
+      <siteMapNode url="~/HR/H_AddUser.aspx" title="员工登记"  description="" />
+      <siteMapNode url="~/U_TaskPage.aspx" title="任务查询"  description="">
+       <siteMapNode url="~/U_TaskPageDetail.aspx" title="任务详细信息" description="" />
+      </siteMapNode>
+      <siteMapNode url="~/U_Attendance.aspx" title="用户考勤信息" description="" />
+      <siteMapNode url="~/admin/M_SelAllUserInfo.aspx" title="用户管理" description="" />
+      <siteMapNode url="~/admin/M_JournalInfo.aspx" title="系统日志" description="" />
+      <!--<siteMapNode url="~/admin/M_SelAllUserInfo.aspx" title="用户管理" description="" />-->
+      <siteMapNode url="~/admin/M_PerssionUserType.aspx" title="权限分配管理" description="">
+       <siteMapNode url="~/admin/M_SetPermission.aspx" title="权限分配" description="" />
+      </siteMapNode>
+      <siteMapNode url="~/admin/M_TaskInfoAdd.aspx" title="任务发布" description="" />
+      <siteMapNode url="~/admin/M_SelTaskInfo.aspx" title="任务维护" description="" />
+      <!--<siteMapNode url="~/admin/M_SelTaskInfo.aspx" title="权限分配" description="" />-->
+      <siteMapNode url="~/admin/M_SalarySearch.aspx" title="员工工资查询" description="">
+       <siteMapNode url="~/admin/M_SalaryDetail.aspx" title="员工工资明细查询" description="" />
+      </siteMapNode>
+      <siteMapNode url="~/admin/M_BasicWages.aspx" title="工资明细管理" description="">
+        <siteMapNode url="~/admin/M_UpdateBasicWages.aspx" title="基本工资修改" description="" />
+      </siteMapNode>
+      <siteMapNode url="~/admin/M_SalaryDetailByUser.aspx" title="个人工资明细查询" description="" />
+      <siteMapNode url="UpdatePassword.aspx" title="修改密码" description="" />
+    </siteMapNode>
+</siteMap>

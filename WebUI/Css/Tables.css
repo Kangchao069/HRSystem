@@ -1,0 +1,64 @@
+﻿.table1{
+    background-color:#f5f2f2;
+    box-shadow: 3px 3px 6px #ebe9e9;
+    width:1080px;
+}
+.table2{
+    background-color:#f5f2f2;
+    box-shadow: 3px 3px 6px #ebe9e9;
+    width:880px;
+}
+.tables{
+    background-color:#f5f2f2;
+    box-shadow: 3px 3px 6px #ebe9e9;
+    width:1240px;
+    border:1px solid #cccdcf;
+}
+.td{
+    width:150px;
+    height:50px;
+    font-size: 20px; 
+    font-family: 黑体; 
+    color: #333333;
+    text-align:center;
+}
+.TextBox{
+    width:350px;
+    height:28px;
+}
+.TextBoxs{
+    width:280px;
+    height:28px;
+    
+    
+}
+.mil{
+    width:350px;
+    height:75px;
+}
+.mils{
+    width:280px;
+    height:75px;
+}
+.lblshow {
+            display: none;
+            color: red;
+            height:16px;
+           float:right;
+            
+        }
+.tds{
+    width:400px;
+    height:30px;
+}
+.th{
+    width:150px;
+    height:40px;
+    font-family: 黑体; 
+    text-align:left;
+}
+.state{
+    width:350px;
+    height:28px;
+    color:red;
+}

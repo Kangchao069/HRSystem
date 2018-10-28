@@ -1,0 +1,42 @@
+﻿
+
+ span:hover {
+                color: red;
+                 cursor:pointer;
+}
+
+
+            
+  
+ #Users{
+     margin-left: 8px;
+    float:left;
+    border:1px solid #cccdcf;
+    font-family:黑体;
+    font-size:16px;
+    text-align:center;
+    padding-top:18px;
+    width:155px;
+    height:40px;
+    background-repeat:no-repeat;
+ }
+ #UpdUsers{
+     margin-left: 24px;
+     float:left;
+    border:1px solid #cccdcf;
+    font-family:黑体;
+    font-size:16px;
+    text-align:center;
+    padding-top:18px;
+    width:155px;
+    height:40px;
+    background-repeat:no-repeat;
+ }
+ #UserInfo{
+     margin-top:40px;
+ }
+#UpdUserInfo {
+    display: none;
+     margin-top:40px;
+}
+

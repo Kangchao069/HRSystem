@@ -1,0 +1,41 @@
+﻿body {
+}
+.tables{
+    background-color:#f5f2f2;
+    box-shadow: 3px 3px 6px #ebe9e9;
+    width:800px;
+}
+.tabless{
+    background-color:#f5f2f2;
+    box-shadow: 3px 3px 6px #ebe9e9;
+    width:900px;
+}
+.table{
+    background-color:#f5f2f2;
+    box-shadow: 3px 3px 6px #ebe9e9;
+    width:1000px;
+}
+
+.td{
+    width:150px;
+    height:40px;
+    font-size: 20px; 
+    font-family: 黑体; 
+    color: #333333;
+    text-align:center;
+}
+.text{
+    width:220px;
+    height:30px;
+}
+.texts{
+    width:180px;
+    height:30px;
+}
+.lblshow {
+            display: none;
+            color: red;
+            height:24px;
+           float:right;
+            
+        }
